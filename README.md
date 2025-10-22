@@ -26,7 +26,7 @@ An interactive web app built with threejs, mediapipe computer vision, web speech
 
 ```bash
 # Clone this repository
-git clone 
+git clone https://github.com/Mouneshgouda/3d-model-playground-main
 
 # Navigate to the project directory
 cd 3d-model-playground
@@ -49,11 +49,3 @@ MIT License
 - Quaternius 3D models - https://quaternius.com/
 
 
-
-## Donations
-
-If you enjoyed this, feel free to buy me a coffee.
-
-My name is Alan, and I enjoy building open source software for computer vision, games, and more. This would be much appreciated during late-night coding sessions!
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/stereoDrift)
